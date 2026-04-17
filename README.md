@@ -32,7 +32,7 @@
 
 **Innoze** is a results-driven software development company based in Pakistan, building smart, scalable, and high-performance digital products for businesses worldwide.
 
-We deliver **complete digital solutions** under one roof — from early-stage startup MVPs to full-scale enterprise platforms.
+We deliver **complete digital solutions** under one roof, from early-stage startup MVPs to full-scale enterprise platforms.
 
 > 🌍 Based in **Pakistan** &nbsp;·&nbsp; Serving clients **Globally**
 
