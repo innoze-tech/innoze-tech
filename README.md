@@ -22,11 +22,11 @@
   <img src="https://github.com/innozeDev/innozeDev/blob/f31cda0a3df8f4049382c3420b6677b386a2b9ce/github%20banner.jpeg" alt="Innoze Tech — Software Development Company Pakistan | We Build Digital Solutions That Grow Your Business" width="100%" />
 </p>
 
-<h1 align="center">Innoze Tech</h1>
+<h1 align="center">Innoze Tech Solutions</h1>
 <h3 align="center">We Build Digital Products That Grow Your Business</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Development+Company;Mobile+App+Development+(iOS+%26+Android);AI+%26+Automation+Solutions;UI%2FUX+Design+%26+Branding;SEO+%26+Digital+Growth;MVP+for+Startups;Web+Applications+%26+SaaS+Platforms;Your+End-to-End+Digital+Partner" alt="Innoze Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Development+Company;Mobile+App+Development+(iOS+%26+Android);AI+%26+Automation+Solutions;UI%2FUX+Design+%26+Branding;SEO+%26+Digital+Growth;MVP+for+Startups;Web+Applications+%26+SaaS+Platforms;Your+End-to-End+Digital+Partner" alt="Innoze Tech — Digital Innovation Company Pakistan" />
 </div>
 
 <br/>
@@ -44,9 +44,9 @@
 
 ## 🏢 Who We Are
 
-**Innoze Tech** is a results-driven software development company based in **Karachi, Pakistan**, building smart, scalable, and high-performance digital products for businesses worldwide.
+**Innoze Tech Solutions** is a results-driven software development company based in **Karachi, Pakistan**, building smart, scalable, and high-performance digital products for businesses worldwide.
 
-We are a dedicated team of **developers, designers, AI engineers, and digital growth specialists** who deliver complete digital solutions under one roof — from early-stage startup MVPs to full-scale enterprise platforms.
+We are a dedicated team of **developers, designers, AI engineers, and digital growth specialists** who deliver complete digital solutions under one roof, from early-stage startup MVPs to full-scale enterprise platforms.
 
 > 🌍 Based in **Karachi, Pakistan** &nbsp;·&nbsp; Serving clients **Globally** &nbsp;·&nbsp; End-to-end delivery, one team
 
@@ -90,6 +90,38 @@ We are a dedicated team of **developers, designers, AI engineers, and digital gr
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏥 Prescripto — Healthcare Management System
+A production-ready full-stack healthcare platform with dedicated portals for Patients, Doctors, and Admins — appointment booking, digital prescriptions, and clinic management in one place.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://prescripto-frontend-eosin.vercel.app/)
+
+---
+
+### 💼 MERN Job Portal — Full Stack Recruitment Platform
+A comprehensive job board connecting job seekers with employers — job postings, application management, and full recruitment workflow for candidates and hiring companies.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://mern-job-portal-frontend-theta.vercel.app/)
+
+---
+
+### 🛍️ Forever — Full Stack E-Commerce Platform
+A modern e-commerce platform with user authentication, shopping cart, product filtering, admin dashboard, order tracking, and cash on delivery support.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://forever-frontend-tau-sooty.vercel.app/)
+
+---
+
+### 🚗 Car Rental Booking Platform
+A full-stack car rental system — browse, filter, and book vehicles, while owners manage listings, bookings, and revenue in one seamless platform.
+
+**Stack:** React · Node.js · Express.js · MongoDB · ImageKit · JWT · Tailwind CSS · Vite
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://car-rental-frontend-fawn.vercel.app/)
+
+---
+
 ## 🌟 Why Choose Innoze Tech?
 
 - ✅ **You don't need to know tech** — we handle everything, you see results
@@ -104,7 +136,7 @@ We are a dedicated team of **developers, designers, AI engineers, and digital gr
 
 ## 🔗 See Our Full Work
 
-> 👉 Visit our organization for full project details, case studies and more:
+> 👉 Visit our organization for full tech stack, case studies, and all project details:
 
 <p align="center">
   <a href="https://github.com/innozetech" target="_blank">
@@ -125,3 +157,7 @@ Have a project idea or a business problem to solve? Whether it's a startup MVP, 
 </p>
 
 <br/>
+
+<p align="center">
+  <i>"Great software team is not just written — it is engineered with purpose, precision, and passion."</i>
+</p>
