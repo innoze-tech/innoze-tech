@@ -42,7 +42,7 @@
 
 ---
 
-## 🏢 Who We Are
+##  Who We Are
 
 **Innoze Tech Solutions** is a results-driven software development company based in **Karachi, Pakistan**, building smart, scalable, and high-performance digital products for businesses worldwide.
 
@@ -68,12 +68,12 @@ We are a dedicated team of **developers, designers, AI engineers, and digital gr
 
 | Value | Statement |
 |:------|:----------|
-| 🎯 **Excellence** | We hold ourselves to the highest standard in everything we build |
-| 🤝 **Integrity** | Full transparency in communication, pricing, and delivery |
-| 💡 **Innovation** | We embrace emerging technologies to engineer future-ready solutions |
-| ⚡ **Agility** | We move fast, adapt quickly, and deliver without compromising quality |
-| 🌍 **Client-Centricity** | Every decision is driven by our client's success and growth |
-| 🔒 **Reliability** | Our commitments are our contracts — we deliver what we promise |
+|  **Excellence** | We hold ourselves to the highest standard in everything we build |
+|  **Integrity** | Full transparency in communication, pricing, and delivery |
+|  **Innovation** | We embrace emerging technologies to engineer future-ready solutions |
+|  **Agility** | We move fast, adapt quickly, and deliver without compromising quality |
+|  **Client-Centricity** | Every decision is driven by our client's success and growth |
+|  **Reliability** | Our commitments are our contracts — we deliver what we promise |
 
 ---
 
@@ -81,39 +81,39 @@ We are a dedicated team of **developers, designers, AI engineers, and digital gr
 
 | Service | What You Get |
 |:--------|:------------|
-| 💻 **Software Development** | Custom web apps, SaaS platforms & business dashboards built to scale |
-| 📱 **Mobile Apps** | iOS & Android apps your users will actually love to use |
-| 🤖 **AI & Automation** | Smart workflows, intelligent chatbots & AI tools that save time & money |
-| 🎨 **UI/UX Design** | Clean, intuitive designs that convert visitors into loyal customers |
-| 📈 **SEO** | Rank higher on Google & drive real organic traffic to your business |
-| 🚀 **MVP for Startups** | Launch your idea fast with a lean, investor-ready product |
+|  **Software Development** | Custom web apps, SaaS platforms & business dashboards built to scale |
+|  **Mobile Apps** | iOS & Android apps your users will actually love to use |
+|  **AI & Automation** | Smart workflows, intelligent chatbots & AI tools that save time & money |
+|  **UI/UX Design** | Clean, intuitive designs that convert visitors into loyal customers |
+|  **SEO** | Rank higher on Google & drive real organic traffic to your business |
+|  **MVP for Startups** | Launch your idea fast with a lean, investor-ready product |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Prescripto — Healthcare Management System
+###  Prescripto — Healthcare Management System
 A production-ready full-stack healthcare platform with dedicated portals for Patients, Doctors, and Admins — appointment booking, digital prescriptions, and clinic management in one place.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://prescripto-frontend-eosin.vercel.app/)
 
 ---
 
-### 💼 MERN Job Portal — Full Stack Recruitment Platform
+###  Job Portal — Full Stack Recruitment Platform
 A comprehensive job board connecting job seekers with employers — job postings, application management, and full recruitment workflow for candidates and hiring companies.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://mern-job-portal-frontend-theta.vercel.app/)
 
 ---
 
-### 🛍️ Forever — Full Stack E-Commerce Platform
+###  Forever — Full Stack E-Commerce Platform
 A modern e-commerce platform with user authentication, shopping cart, product filtering, admin dashboard, order tracking, and cash on delivery support.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://forever-frontend-tau-sooty.vercel.app/)
 
 ---
 
-### 🚗 Car Rental Booking Platform
+###  Car Rental Booking Platform
 A full-stack car rental system — browse, filter, and book vehicles, while owners manage listings, bookings, and revenue in one seamless platform.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://car-rental-frontend-fawn.vercel.app/)
@@ -122,13 +122,13 @@ A full-stack car rental system — browse, filter, and book vehicles, while owne
 
 ## 🌟 Why Choose Innoze Tech?
 
-- ✅ **You don't need to know tech** — we handle everything, you see results
-- ✅ **Startup-friendly** — we understand tight budgets and fast deadlines
-- ✅ **End-to-end delivery** — from idea to launch, one team handles it all
-- ✅ **Clean code & best practices** — built to last, not just to demo
-- ✅ **AI-powered solutions** — we bring modern intelligence to every project
-- ✅ **Transparent communication** — no ghost, no delay, no surprises
-- ✅ **Global standards, local understanding** — world-class quality from Karachi, Pakistan
+-  **You don't need to know tech** — we handle everything, you see results
+-  **Startup-friendly** — we understand tight budgets and fast deadlines
+-  **End-to-end delivery** — from idea to launch, one team handles it all
+-  **Clean code & best practices** — built to last, not just to demo
+-  **AI-powered solutions** — we bring modern intelligence to every project
+-  **Transparent communication** — no ghost, no delay, no surprises
+-  **Global standards, local understanding** — world-class quality from Karachi, Pakistan
 
 ---
 
@@ -138,7 +138,7 @@ A full-stack car rental system — browse, filter, and book vehicles, while owne
 
 <p align="center">
   <a href="https://github.com/innozetech" target="_blank">
-    <img src="https://img.shields.io/badge/🏢_Visit_Innoze_Organization-innozetech-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_Innoze_Organization-innozetech-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -157,5 +157,5 @@ Have a project idea or a business problem to solve? Whether it's a startup MVP, 
 <br/>
 
 <p align="center">
-  <i>"Great software team is not just written — it is engineered with purpose, precision, and passion."</i>
+  <i>"Great software is not just written — it is engineered with purpose, precision, and passion."</i>
 </p>
